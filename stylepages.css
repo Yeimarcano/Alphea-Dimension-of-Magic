@@ -1,0 +1,79 @@
+body{background-image: url("images/paper.jpg");
+background-color: #e6d7bd;
+	 background-size:1480px 1100px;
+	 background-repeat: no-repeat; 
+	 background-position: 0px 100px;}
+
+h1{color: #007E82;
+	font-family: "Garamond";
+	font-style: italic; 
+	font-size: 48pt; 
+	text-align: center;
+	line-height: 5px;}
+
+h2{color:#01406B;
+	font-family: "Athelas";
+	font-style: normal; 
+	font-size: 20pt; 
+	text-align: center;
+	letter-spacing: 1.5em;
+	line-height: 0px;}
+
+h3{color: #041966;
+   font-family:"Athelas";
+   font-size: 26pt;
+   margin-left: 5px;
+   line-height: 20 px}
+
+h3 a{color: #041966;
+   font-family:"Athelas";
+   font-size: 26pt;
+   line-height: 0.1 px;
+   class:"center"}
+
+h4{color: #048E92;
+   font-family:"Athelas";
+   font-size: 18pt;
+   margin-left: 5px;
+   line-height: 0.1px}
+
+h4 a{color: #0B4E5F;
+   font-family:"Garamond";
+   font-size: 18pt;
+   line-height: 0.1px;
+   class:"center"}
+
+p{color: #000000;
+   font-family:"Garamond";
+   font-size: 16pt;
+   margin-left: 5px;}
+
+img{margin-right: 100pt;
+    style ="position: absolute; top: 0; right: 0;"
+    }
+
+img{class: "center"}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;}
+
+h5 a{color: #0B4E5F ; 
+	font-family: "Garamond"; 
+	font-size: 18pt; 
+	text-decoration: none;
+    margin-left: 15px;
+    line-height: 30px;}
+
+h6 {text-align: right;}
+a{color: #0B4E5F ; 
+	font-family: "Garamond"; 
+	font-size: 18pt; 
+	text-decoration: none;
+	margin-right: 15px;
+    line-height: 20px;}
+
+a:hover{color:#1035C1;}
+
