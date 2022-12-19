@@ -25,6 +25,19 @@ h3{color: #041966;
    margin-left: 5px;
    line-height: 0.1 px}
 
+h3 a{color: #041966 ; 
+	font-family: "Garamond"; 
+	font-size: 25pt; 
+	text-decoration: none;
+	margin-left: 15px;
+	line-height: 100pt;
+   class:"center"}
+   .center{
+	display: block;
+	margin-left:550px;
+	margin-right: auto;
+	width: 40%;}
+
 h4{color: #048E92;
    font-family:"Athelas";
    font-size: 18pt;
